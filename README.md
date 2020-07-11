@@ -5,7 +5,7 @@
 <p>
   <em>
     Sou estudante de Analise e Desenvolvimento de Sistemas na<a href="https://portal.estacio.br/"> <b>Universidade Estácio de Sá</b></a>. <br>
-    Meu foco é ser um <b>Software Developer</b> <img src="https://media1.giphy.com/media/L1FC5U4DwcbaEkawNr/giphy.webp?cid=ecf05e47f0e0c651b1a0106281a0b5239e354f42bb5d446c&rid=giphy.webp" width="40px" >, atualmente estudo principalmente desenvolvimento web com <b>Spring Framework</b> e línguagem <b>Java</b>&nbsp;<img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" width="150px">, com o ideal de <b>melhoraria continua</b> busco sempre me <b>desenvolver ,</b>  <img src="https://1.bp.blogspot.com/-d_UwHAVJwUI/VwRkHF569xI/AAAAAAAAs-E/WfwPf_FUDz0KqsHiVc9Uy3MJONs2Hbi9w/s1600/finn.gif" width="100px"> <br> para integrar equipes ágeis e entregar softwares que <b>impactem</b> de maneira positiva a vida das pessoas. <img src="https://taskcenter.mega.com.br/hc/article_attachments/115004063014/sim.gif" width="70px"> <br><br>
+    Meu foco é ser um <b>Software Developer</b> , atualmente estudo principalmente desenvolvimento web com <b>Spring Framework</b> e línguagem <b>Java</b>&nbsp;<img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" width="150px">, com o ideal de <b>melhoraria continua</b> busco sempre me <b>desenvolver ,</b> para integrar equipes ágeis e entregar softwares que <b>impactem</b> de maneira positiva a vida das pessoas.<br><br>
     <b>Let's code</b> <br> <img src="https://i.imgur.com/MvMxQ1a.gif" width="200px">
 	</em>
 </p>
