@@ -1,4 +1,34 @@
-### Hi there 👋
+### Olá, Me chamo Jordan Negreiros <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="70px">
+
+<br>
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+<br>
+
+<p>
+  <em>
+    Sou estudante de Analise e Desenvolvimento de Sistemas na<a href="https://portal.estacio.br/"> <b>Universidade Estácio de Sá</b></a>. <br>
+    Meu foco é ser um <b>Software Developer</b> <img src="https://media1.giphy.com/media/L1FC5U4DwcbaEkawNr/giphy.webp?cid=ecf05e47f0e0c651b1a0106281a0b5239e354f42bb5d446c&rid=giphy.webp" width="40px" >, atualmente estudo principalmente desenvolvimento web com <b>Spring Framework</b> e línguagem <b>Java</b>&nbsp;<img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" width="150px">, com o ideal de <b>melhoraria continua</b> busco sempre me <b>desenvolver</b>  <img src="https://1.bp.blogspot.com/-d_UwHAVJwUI/VwRkHF569xI/AAAAAAAAs-E/WfwPf_FUDz0KqsHiVc9Uy3MJONs2Hbi9w/s1600/finn.gif" width="100px">, para integrar equipes ágeis e entregar softwares que <b>impactem</b> de maneira positiva a vida das pessoas.<br><br>
+    <b>Let's code</b> <br> <img src="https://i.imgur.com/MvMxQ1a.gif" width="200px">
+	</em>
+</p>
+
+
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Jordan-Negreiros&show_icons=true&hide_border=true)
+
+<br>
+
+  <a href="https://www.linkedin.com/in/jordan-negreiros/">
+    <img align="left" alt="Jordan Negreiros | Linkedin" width="50px" src="https://imageog.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />
+  </a>
+  <a href="mailto:jordannegreirossantos@gmail.com">
+    <img align="left" alt="Jordan Negreiros | Gmail" width="26px" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
+  </a>
+
+<br><br><br><br>
+
+
 
 <!--
 **Jordan-Negreiros/Jordan-Negreiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
