@@ -4,14 +4,16 @@
 
 <p>
   <em>
-    Sou estudante de Analise e Desenvolvimento de Sistemas na<a href="https://portal.estacio.br/"> <b>Universidade Estácio de Sá</b></a>. <br>
-    Meu foco é ser um <b>Software Developer</b> , atualmente estudo principalmente desenvolvimento web com <b>Spring Framework</b> e línguagem <b>Java</b>&nbsp;<img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" width="150px">, com o ideal de <b>melhoraria continua</b> busco sempre me <b>desenvolver ,</b> para integrar equipes ágeis e entregar softwares que <b>impactem</b> de maneira positiva a vida das pessoas.<br><br>
+    Sou estudante de Analise e Desenvolvimento de Sistemas na<a href="https://portal.estacio.br/"> <b>Universidade Estácio de Sá</b></a>.
+    <br><br>
     <b>Let's code</b> <br> <img src="https://i.imgur.com/MvMxQ1a.gif" width="200px">
 	</em>
 </p>
 
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Jordan-Negreiros&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Negreiros&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
