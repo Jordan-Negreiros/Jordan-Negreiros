@@ -18,7 +18,7 @@
 <br>
 
   <a href="https://www.linkedin.com/in/jordan-negreiros/">
-    <img align="left" alt="Jordan Negreiros | Linkedin" width="50px" src="https://imageog.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />
+    <img align="left" alt="Jordan Negreiros | Linkedin" width="26px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
   </a>
   <a href="mailto:jordannegreirossantos@gmail.com">
     <img align="left" alt="Jordan Negreiros | Gmail" width="26px" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
