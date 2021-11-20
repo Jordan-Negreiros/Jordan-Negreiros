@@ -10,22 +10,7 @@
 	</em>
 </p>
 
-
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Jordan-Negreiros&show_icons=true&hide_border=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Negreiros&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-  <a href="https://www.linkedin.com/in/jordan-negreiros/">
-    <img align="left" alt="Jordan Negreiros | Linkedin" width="26px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
-  </a>
-  <a href="mailto:jordannegreirossantos@gmail.com">
-    <img align="left" alt="Jordan Negreiros | Gmail" width="26px" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
-  </a>
-
-<br><br><br><br>
-
 
 
 <!--
